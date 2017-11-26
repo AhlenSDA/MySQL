@@ -1,0 +1,1 @@
+SELECT plec, count(plec) AS ilosc FROM pracownicy GROUP BY plec

@@ -1,0 +1,1 @@
+SELECT kolor_oczu, count(kolor_oczu) as ilosc FROM pracownicy GROUP BY kolor_oczu

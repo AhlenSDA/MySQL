@@ -1,0 +1,1 @@
+SELECT DISTINCT kolor_oczu FROM pracownicy

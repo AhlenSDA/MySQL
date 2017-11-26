@@ -1,0 +1,1 @@
+SELECT * FROM pracownicy WHERE data_urodzin < date_sub(now(), interval 40 year);

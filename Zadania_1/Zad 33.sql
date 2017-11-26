@@ -1,0 +1,1 @@
+SELECT imie, count(imie) as ilosc FROM pracownicy GROUP BY imie

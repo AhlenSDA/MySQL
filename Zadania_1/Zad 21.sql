@@ -1,0 +1,1 @@
+SELECT AVG(wynagrodzenie) AS AVG, MAX(wynagrodzenie) AS MAX, MIN(wynagrodzenie) AS MIN FROM pracownicy

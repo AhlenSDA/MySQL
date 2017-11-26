@@ -1,0 +1,1 @@
+SELECT * FROM pracownicy WHERE wynagrodzenie = (SELECT MAX(wynagrodzenie) FROM pracownicy)
